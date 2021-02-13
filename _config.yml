@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: The Open Bootcamp (Full-Stack, Data Science, and MLOps)
+description: I've spent a lot of time learning things online. This blog is an attempt to document some of this work in a way that makes this journey more accessible to other independent, inquiring minds.
 github_username: jph00
 
 # Email and twitter are optional:
