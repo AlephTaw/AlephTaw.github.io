@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: The Open Bootcamp (Full-Stack, Data Science, and MLOps)
-description: I've spent a lot of time learning things online. This blog is an attempt to document some of this work in a way that makes this journey more accessible to other independent, inquiring minds.
-github_username: jph00
+title: The Open Bootcamp
+description: Machine learning and software development resources for inquiring minds.
+github_username:
 
 # Email and twitter are optional:
 email:
