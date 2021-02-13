@@ -1,4 +1,4 @@
-# The ML-Ops Interview Guide:
+# The ML-Ops Interview Guide
 
 
 
